@@ -35,5 +35,5 @@ async def testgif(ctx):
 async def testvideo(ctx):
     await ctx.send(file=discord.File('video0-8.mp4'))
 
-bot.run('ODAxNDk4NzA0MzgwMjk3MjI3.YAhj1g.j_yJ3fo6DUODKseVJWdx2U5QQ6M')
+bot.run('Insert Token Here')
 
